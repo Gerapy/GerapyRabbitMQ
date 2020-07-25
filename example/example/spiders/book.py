@@ -4,7 +4,6 @@ import scrapy
 from example.items import BookItem
 from gerapy_pyppeteer import PyppeteerRequest
 import logging
-from scrapy.utils.reqser import request_to_dict
 
 logger = logging.getLogger(__name__)
 
