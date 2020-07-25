@@ -1,4 +1,4 @@
-# Gerapy Redis Example
+# Gerapy RabbitMQ Example
 
 ## Run
 
