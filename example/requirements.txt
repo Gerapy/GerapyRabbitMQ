@@ -1,0 +1,4 @@
+gerapy-redis
+gerapy-rabbitmq
+gerapy-pyppeteer
+environs
