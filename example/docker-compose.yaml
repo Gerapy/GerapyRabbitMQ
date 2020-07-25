@@ -5,9 +5,10 @@ services:
     ports:
       - '6379:6379'
   rabbitmq:
-    image: 'bitnami/rabbitmq'
+    image: 'rabbitmq:management'
     ports:
       - '5672:5672'
+      - '15672:15672'
   gerapy-rabbitmq-example:
     container_name: 'gerapy-rabbitmq-example'
     restart: always

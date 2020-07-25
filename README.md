@@ -50,4 +50,4 @@ For more detail, you can refer to [example](./example).
 
 ## RabbitMQ Preview
 
-![](https://qiniu.cuiqingcai.com/9q9jw.png)
+![](https://qiniu.cuiqingcai.com/zjc82.png)
